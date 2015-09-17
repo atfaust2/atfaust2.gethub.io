@@ -1,0 +1,19 @@
+h3{
+	text-align:center;
+	color:rgb(255,200,255);
+}
+body{
+	background-color:grey;
+	
+}
+h2{
+	text-decoration:underline;
+	text-align:center;
+}
+p{
+	text-indent:50px;
+}
+h1{
+	text-transform:uppercase;
+	text-align:center;
+}
